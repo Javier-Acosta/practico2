@@ -1,5 +1,5 @@
 {
-  "dependencies": {
-    "mongoose": "^8.7.3"
-  }
+    "dependencies": {
+        "mongoose": "7.0"
+    }
 }
